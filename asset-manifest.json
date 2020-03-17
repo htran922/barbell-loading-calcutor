@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/barbell-loading-calcutor/static/css/main.9c2722b2.chunk.css",
+    "main.js": "/barbell-loading-calcutor/static/js/main.54b09f9c.chunk.js",
+    "main.js.map": "/barbell-loading-calcutor/static/js/main.54b09f9c.chunk.js.map",
+    "runtime-main.js": "/barbell-loading-calcutor/static/js/runtime-main.388d6c83.js",
+    "runtime-main.js.map": "/barbell-loading-calcutor/static/js/runtime-main.388d6c83.js.map",
+    "static/css/2.de424728.chunk.css": "/barbell-loading-calcutor/static/css/2.de424728.chunk.css",
+    "static/js/2.07efa3ad.chunk.js": "/barbell-loading-calcutor/static/js/2.07efa3ad.chunk.js",
+    "static/js/2.07efa3ad.chunk.js.map": "/barbell-loading-calcutor/static/js/2.07efa3ad.chunk.js.map",
+    "index.html": "/barbell-loading-calcutor/index.html",
+    "precache-manifest.48dcf220cdec98562eb8f66fb9d506d9.js": "/barbell-loading-calcutor/precache-manifest.48dcf220cdec98562eb8f66fb9d506d9.js",
+    "service-worker.js": "/barbell-loading-calcutor/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/barbell-loading-calcutor/static/css/2.de424728.chunk.css.map",
+    "static/css/main.9c2722b2.chunk.css.map": "/barbell-loading-calcutor/static/css/main.9c2722b2.chunk.css.map",
+    "static/js/2.07efa3ad.chunk.js.LICENSE.txt": "/barbell-loading-calcutor/static/js/2.07efa3ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.388d6c83.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.07efa3ad.chunk.js",
+    "static/css/main.9c2722b2.chunk.css",
+    "static/js/main.54b09f9c.chunk.js"
+  ]
+}
