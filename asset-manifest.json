@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/barbell-loading-calculator/static/css/main.87f3f6eb.chunk.css",
-    "main.js": "/barbell-loading-calculator/static/js/main.54f5921a.chunk.js",
-    "main.js.map": "/barbell-loading-calculator/static/js/main.54f5921a.chunk.js.map",
+    "main.js": "/barbell-loading-calculator/static/js/main.df988105.chunk.js",
+    "main.js.map": "/barbell-loading-calculator/static/js/main.df988105.chunk.js.map",
     "runtime-main.js": "/barbell-loading-calculator/static/js/runtime-main.eecfb9b2.js",
     "runtime-main.js.map": "/barbell-loading-calculator/static/js/runtime-main.eecfb9b2.js.map",
     "static/css/2.de424728.chunk.css": "/barbell-loading-calculator/static/css/2.de424728.chunk.css",
     "static/js/2.07efa3ad.chunk.js": "/barbell-loading-calculator/static/js/2.07efa3ad.chunk.js",
     "static/js/2.07efa3ad.chunk.js.map": "/barbell-loading-calculator/static/js/2.07efa3ad.chunk.js.map",
     "index.html": "/barbell-loading-calculator/index.html",
-    "precache-manifest.0e6d2d4457965fc1677872cf830c54af.js": "/barbell-loading-calculator/precache-manifest.0e6d2d4457965fc1677872cf830c54af.js",
+    "precache-manifest.da15f7481ce1017c194d130c59602309.js": "/barbell-loading-calculator/precache-manifest.da15f7481ce1017c194d130c59602309.js",
     "service-worker.js": "/barbell-loading-calculator/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/barbell-loading-calculator/static/css/2.de424728.chunk.css.map",
     "static/css/main.87f3f6eb.chunk.css.map": "/barbell-loading-calculator/static/css/main.87f3f6eb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.07efa3ad.chunk.js",
     "static/css/main.87f3f6eb.chunk.css",
-    "static/js/main.54f5921a.chunk.js"
+    "static/js/main.df988105.chunk.js"
   ]
 }
