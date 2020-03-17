@@ -7,7 +7,16 @@ class DisplayResult extends Component {
 
 		return (
 			<div>
-				{this.props.remainingWeight ? <Alert variant="warning">Unable to load {this.props.remainingWeight} lb to barbell. Add the weights below to get {this.props.closestWeight} lb.</Alert> : null}
+				{this.props.remainingWeight ? (
+					<Alert variant="warning">
+						Unable to load {this.props.remainingWeight} lb to
+						barbell. <br />
+						Add the weights below to get {
+							this.props.closestWeight
+						}{" "}
+						lb.
+					</Alert>
+				) : null}
 				<table className="table">
 					<tbody>
 						<tr>
