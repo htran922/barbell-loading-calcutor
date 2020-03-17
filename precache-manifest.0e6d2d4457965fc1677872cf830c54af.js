@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44a6f5eca860f365573733267eb9ca8e",
+    "revision": "dcc3184cbec8e2975b57cc8c0102eeed",
     "url": "/barbell-loading-calculator/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/barbell-loading-calculator/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "5df6fa5b7cd885ee622e",
-    "url": "/barbell-loading-calculator/static/css/main.1013a240.chunk.css"
+    "revision": "f5bcb6c798cb8fcc84a0",
+    "url": "/barbell-loading-calculator/static/css/main.87f3f6eb.chunk.css"
   },
   {
     "revision": "bbbd57c4f13a676b22dd",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/barbell-loading-calculator/static/js/2.07efa3ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5df6fa5b7cd885ee622e",
-    "url": "/barbell-loading-calculator/static/js/main.b676f1d5.chunk.js"
+    "revision": "f5bcb6c798cb8fcc84a0",
+    "url": "/barbell-loading-calculator/static/js/main.54f5921a.chunk.js"
   },
   {
     "revision": "be5fb8d062dc88e1c16a",

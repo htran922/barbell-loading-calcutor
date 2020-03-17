@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/barbell-loading-calculator/static/css/main.1013a240.chunk.css",
-    "main.js": "/barbell-loading-calculator/static/js/main.b676f1d5.chunk.js",
-    "main.js.map": "/barbell-loading-calculator/static/js/main.b676f1d5.chunk.js.map",
+    "main.css": "/barbell-loading-calculator/static/css/main.87f3f6eb.chunk.css",
+    "main.js": "/barbell-loading-calculator/static/js/main.54f5921a.chunk.js",
+    "main.js.map": "/barbell-loading-calculator/static/js/main.54f5921a.chunk.js.map",
     "runtime-main.js": "/barbell-loading-calculator/static/js/runtime-main.eecfb9b2.js",
     "runtime-main.js.map": "/barbell-loading-calculator/static/js/runtime-main.eecfb9b2.js.map",
     "static/css/2.de424728.chunk.css": "/barbell-loading-calculator/static/css/2.de424728.chunk.css",
     "static/js/2.07efa3ad.chunk.js": "/barbell-loading-calculator/static/js/2.07efa3ad.chunk.js",
     "static/js/2.07efa3ad.chunk.js.map": "/barbell-loading-calculator/static/js/2.07efa3ad.chunk.js.map",
     "index.html": "/barbell-loading-calculator/index.html",
-    "precache-manifest.4153d5310f13ec15ea46b50f6d5ad405.js": "/barbell-loading-calculator/precache-manifest.4153d5310f13ec15ea46b50f6d5ad405.js",
+    "precache-manifest.0e6d2d4457965fc1677872cf830c54af.js": "/barbell-loading-calculator/precache-manifest.0e6d2d4457965fc1677872cf830c54af.js",
     "service-worker.js": "/barbell-loading-calculator/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/barbell-loading-calculator/static/css/2.de424728.chunk.css.map",
-    "static/css/main.1013a240.chunk.css.map": "/barbell-loading-calculator/static/css/main.1013a240.chunk.css.map",
+    "static/css/main.87f3f6eb.chunk.css.map": "/barbell-loading-calculator/static/css/main.87f3f6eb.chunk.css.map",
     "static/js/2.07efa3ad.chunk.js.LICENSE.txt": "/barbell-loading-calculator/static/js/2.07efa3ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eecfb9b2.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.07efa3ad.chunk.js",
-    "static/css/main.1013a240.chunk.css",
-    "static/js/main.b676f1d5.chunk.js"
+    "static/css/main.87f3f6eb.chunk.css",
+    "static/js/main.54f5921a.chunk.js"
   ]
 }
