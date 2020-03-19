@@ -27,6 +27,8 @@ class App extends Component {
 		};
 	}
 	componentDidMount() {
+		console.log('Component Did Mount')
+		console.log('-------------------');
 		this.calculateTotal();
 	}
 
@@ -134,6 +136,8 @@ class App extends Component {
 			</div>
 		);
 	}
+
+
 }
 
 export default App;

@@ -20,7 +20,7 @@ class DisplayResult extends Component {
 				<table className="table">
 					<tbody>
 						<tr>
-							<th>Plate Weight</th>
+							<th>Plate Weight (lb)</th>
 							<th>Count</th>
 						</tr>
 						{weightObj.map(item => {
@@ -35,6 +35,12 @@ class DisplayResult extends Component {
 				</table>
 			</div>
 		);
+	}
+
+	componentWillUnmount() {
+		console.log('Component Will Unmount');
+		console.log('----------------------')
+
 	}
 }
 

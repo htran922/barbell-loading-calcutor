@@ -6,6 +6,7 @@ class FormInput extends Component {
 		this.props.onToggleBarbellWeight(selectedBarbellWeight);
 	};
 
+
 	render() {
 		return (
 			<form onSubmit={this.props.onCalculateWeight}>
@@ -41,7 +42,6 @@ class FormInput extends Component {
 				
 				<div className="form-group">
 					<h5>Enter target weight:</h5>
-					<p><em>Note: This calculator assumes the barbell weight is {this.props.barbellWeight} lbs.</em></p>
 					<input
 						className="form-control"
 						type="number"
@@ -49,12 +49,15 @@ class FormInput extends Component {
 						value={this.props.targetWeight}
 						onChange={this.props.setWeight}
 					/>
+					<p><em>Note: This calculator assumes the barbell weight is {this.props.barbellWeight} lbs.</em></p>
+
 				</div>
 				<button className="btn btn-info">Calculate!</button>
 				
 			</form>
 		);
 	}
+
 }
 
 export default FormInput;
