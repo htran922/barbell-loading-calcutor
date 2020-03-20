@@ -21,7 +21,7 @@ class DisplayResult extends Component {
 					<tbody>
 						<tr>
 							<th>Plate Weight (lb)</th>
-							<th>Count</th>
+							<th>Count (per side)</th>
 						</tr>
 						{weightObj.map(item => {
 							return (
